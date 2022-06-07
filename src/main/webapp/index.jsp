@@ -9,5 +9,7 @@
 <body>
 	<h1>cowork</h1>
 	<a href="%">/cowork/helloworld/</a>
+	<a href="#">/cowork/heonnn</a>
+
 </body>
 </html>
