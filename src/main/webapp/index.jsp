@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>cowork</title>
+<script src="b.js"></script>
 </head>
 <body>
 	<h1>cowork</h1>
